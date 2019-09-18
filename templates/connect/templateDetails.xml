@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3" type="template" client="site">
+        <name>Connect</name>
+        <creationDate>6.08.2015</creationDate>
+        <author>Connect</author>
+        <authorEmail>email</authorEmail>
+        <authorUrl>url</authorUrl>
+        <copyright>2015</copyright>
+        <license>GNU/GPL</license>
+        <version>1.0.0</version>
+        <description>Профессиональный шаблон</description>
+        <files>
+                <filename>index.php</filename>
+                <filename>index.html</filename>
+                <filename>templateDetails.xml</filename>
+                <folder>images</folder>
+                <folder>css</folder>
+                <folder>js</folder>
+        </files>
+        <positions>
+                <position>logo</position>
+                <position>menu</position>
+                <position>number</position>
+                <position>form</position>
+                <position>slider1</position>
+                <position>slider2</position>
+                <position>nav</position>
+                <position>user1-0</position>
+                <position>user1-1</position>
+                <position>user1-2</position>
+                <position>user1-3</position>
+                <position>user2-0</position>
+                <position>user2-1</position>
+                <position>user2-2</position>
+                <position>user2-3</position>
+                <position>user3-0</position>
+                <position>footer1</position>
+                <position>footer2</position>
+                <position>footer3</position>
+        </positions>
+</extension>
